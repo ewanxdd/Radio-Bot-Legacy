@@ -13,7 +13,7 @@ So here you have it, feel free to have a nosey about and see the utterly shambol
 
 
 
-At first I was reluctant to offer support with the code but im going to be nice. If you have any questions of need any help I will do my best to answer. Head over to (our Discord)[https://discord.gg/fpDHRE6] server and drop your message in [#archive-code-support](https://discord.gg/R55k896Xmt) and I will do my best to help out (I cant guarantee it though.)
+At first I was reluctant to offer support with the code but im going to be nice. If you have any questions of need any help I will do my best to answer. Head over to [our Discord](https://discord.gg/fpDHRE6) server and drop your message in [#archive-code-support](https://discord.gg/R55k896Xmt) and I will do my best to help out (I cant guarantee it though.)
 
 
 
