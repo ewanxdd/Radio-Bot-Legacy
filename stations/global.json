@@ -1,0 +1,156 @@
+[
+  {
+    "id": "capital",
+    "emote": "<:CapitalFM:506515630141472769>",
+    "active": true,
+    "info": {
+      "name": "Capital FM",
+      "shortname": "Capital",
+      "slogan": "The UK's Number 1 Hit Music Station",
+      "website": "https://www.capitalfm.com/digital/",
+      "logo": "http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2017/02/capital-network-logo--led-wall-1484217409-custom-0.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/CapitalUKMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "capitalxtra",
+    "emote": "<:CapitalXTRA:592304981831319562>",
+    "active": true,
+    "info": {
+      "name": "Capital XTRA",
+      "shortname": "Capital XTRA",
+      "slogan": "Bringing you the best of Hip Hop, Grime, RnB.",
+      "website": "https://www.capitalxtra.com/",
+      "logo": "https://assets.capitalxtra.com/2018/10/capital-xtra-default-artwork-1520939543-list-handheld-0.jpg",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/CapitalXTRANationalMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "heart",
+    "emote": "<:Heart:505536128594739201>",
+    "active": true,
+    "info": {
+      "name": "Heart",
+      "shortname": "Heart",
+      "slogan": "Turn up the feel good",
+      "website": "https://www.heart.co.uk/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/HeartUKMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "heartdance",
+    "emote": "<:HeartDance:592682809068617729>",
+    "active": true,
+    "info": {
+      "name": "Heart Dance",
+      "shortname": "Heart Dance",
+      "slogan": "Non-stop Club Classics",
+      "website": "https://www.heart.co.uk/dance/",
+      "logo": "https://radio2you.co.uk/public/uploads/radio_img/heart-dance/fb_cover.jpg",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/HeartDanceMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "heartchristmas",
+    "emote": "<:Heart:505536128594739201>",
+    "active": true,
+    "info": {
+      "name": "Heart Christmas",
+      "shortname": "Heart Christmas",
+      "slogan": "Turn Up The Feel Good",
+      "website": "https://www.heart.co.uk/christmas/",
+      "logo": "https://imgs.heart.co.uk/images/90242?crop=16_9&width=660&relax=1&signature=z76yr4SabqnHwRGyjfF4OEG44_M=",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://media-ice.musicradio.com/HeartextraMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radiox",
+    "emote": "<:RadioX:504665222624313376>",
+    "active": true,
+    "info": {
+      "name": "Radio X",
+      "shortname": "RadioX",
+      "slogan": "Get Into the Music",
+      "website": "https://www.radiox.co.uk/",
+      "logo": "https://assets.radiox.co.uk/2016/07/radio-x-square-logo-700x700-1455805104-article-lead-0.jpg",
+      "color": "#37a247"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/RadioXLondonMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_radiox_current()",
+      "dj": "rs_radiox_dj()"
+    }
+  },
+  {
+    "id": "smoothradio",
+    "emote": "<:SmoothRadio:505533759710560256>",
+    "active": true,
+    "info": {
+      "name": "Smooth FM",
+      "shortname": "Smooth",
+      "slogan": "Your Relaxing Music Mix",
+      "website": "https://www.smoothradio.com/",
+      "logo": "https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjllPGK_aTdAhVIEVAKHTOIAmAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.smoothradio.com%2F&psig=AOvVaw2JpCPSCitNOYo83_sVbHdc&ust=1536275145660289",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-sov.musicradio.com:80/SmoothUKMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

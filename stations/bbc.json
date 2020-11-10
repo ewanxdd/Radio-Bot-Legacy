@@ -1,0 +1,200 @@
+[
+  {
+    "id": "radio1",
+    "emote": "<:bbcradio1:618071831227924493>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 1",
+      "shortname": "Radio 1",
+      "slogan": "Where It Begins",
+      "website": "https://www.bbc.co.uk/radio1",
+      "logo": "https://pre00.deviantart.net/72e7/th/pre/f/2014/137/1/6/radio_1_icon_by_snowsnooks-d7io141.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/radio1.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_radio1_playlist()[0]",
+      "dj": "rs_radio1_dj()"
+    }
+  },
+  {
+    "id": "radio1xtra",
+    "emote": "<:bbc1xtra:618071701883715614>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 1Xtra",
+      "shortname": "Radio 1Xtra",
+      "slogan": "Home of Dotty, DJ Target, Ace, MistaJam and Yasmin Evans. Xtra RnB, Xtra Hip Hop.",
+      "website": "https://www.bbc.co.uk/1xtra",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BBC_Radio_1Xtra_launch_logo.svg/1280px-BBC_Radio_1Xtra_launch_logo.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?s=1567365098&e=1567379498&h=f11d8a40c01f215e9a8ee10de1f26478",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio2",
+    "emote": "<:bbcradio2:618071916929875969>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 2",
+      "shortname": "Radio 2",
+      "slogan": "The home of great music. On the BBC Sounds App, on Digital Radio, and on 88 to 91 FM",
+      "website": "https://www.bbc.co.uk/radio2",
+      "logo": "https://d24j9r7lck9cin.cloudfront.net/l/o/4/410.1487922932.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1567403745&e=1567418145&h=bd835790b9024474d1343665df5ead65",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio3",
+    "emote": "<:bbcradio3:618071769882034177>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 3",
+      "shortname": "Radio 3",
+      "slogan": "Radio 3 broadcasts classical music, jazz, world music, new music, arts programmes and drama. It's the home of the Proms and broadcasts more live music than any other network",
+      "website": "https://www.bbc.co.uk/radio3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BBC_Radio_3.svg/1280px-BBC_Radio_3.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p?s=1567422767&e=1567437167&h=14fb84fc7be609624e9fbd7a086ff68f",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio4",
+    "emote": "<:bbcradio4:618071793483251733>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 4",
+      "shortname": "Radio 4",
+      "slogan": "Intelligent speech, the most insightful journalism, the wittiest comedy, the most fascinating features and the most compelling drama and readings anywhere in UK radio",
+      "website": "https://www.bbc.co.uk/radio4",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Radio_4.svg/1280px-BBC_Radio_4.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p?s=1567423276&e=1567437676&h=438fadb83a71d90875b6c9226ccb4cca",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio4extra",
+    "emote": "<:bbc4xtra:618074641612931082>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 4 Extra",
+      "shortname": "Radio 4 Extra",
+      "slogan": "Showcasing the best in comedy drama and entertainment. With quizzes, sitcoms, panel games, satire, stand up, life stories, classics from the archive, science fiction and fantasy",
+      "website": "https://www.bbc.co.uk/radio4extra",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/BBC_Radio_4_Extra.svg/1280px-BBC_Radio_4_Extra.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p?s=1567425037&e=1567439437&h=218d23f72dd87c1f9e78280684390fd6",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio5live",
+    "emote": "<:radio5live:618075540792016916>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 5 live",
+      "shortname": "Radio 5 live",
+      "slogan": "On digital and online, smartphone, and tablet, this is BBC 5 Live",
+      "website": "https://www.bbc.co.uk/5live",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_Radio_5_Live.svg/1280px-BBC_Radio_5_Live.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://sc56.lon.llnw.net:80/stream/bbcmedia_radio5live_mf_p",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio5livesportsextra",
+    "emote": "<:radio5liveextra:618077466136805377>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 5 live sports extra",
+      "shortname": "Radio 5 live sports extra",
+      "slogan": "More live sport. Pure live sport. Live cricket from the Test Match Special team, football commentary, Formula 1, rugby union, rugby league, baseball, NFL American Football, tennis...",
+      "website": "https://www.bbc.co.uk/5livesportsextra",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Radio_5_Live_Sports_Extra.svg/1200px-BBC_Radio_5_Live_Sports_Extra.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live_sports_extra",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio6",
+    "emote": "<:bbcradio6:618078707084689429>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 6 Music",
+      "shortname": "Radio 6",
+      "slogan": "The place for the best Alternative Music",
+      "website": "https://www.bbc.co.uk/6music",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BBC_Radio_6_Music.svg/1280px-BBC_Radio_6_Music.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p?s=1567424495&e=1567438895&h=30f368ef8836741fc8dfda032cf6f606",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

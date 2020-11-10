@@ -1,0 +1,17 @@
+{
+  "version": "v2.1.0",
+  "token": "",
+  "prefix": "?",
+  "devmode": "False",
+  "api": "False",
+  "sharding": "False",
+  "shard_id": 1,
+  "shard_count": 4,
+  "super_admin": 210885581264125952,
+  "maintainers": [
+    82250139665707008,
+    249919528421556224
+  ],
+  "support_invite": "https://discord.gg/fpDHRE6",
+  "stations_url": "rb.ewanpatrick.co.uk"
+}

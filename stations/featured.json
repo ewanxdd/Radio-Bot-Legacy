@@ -1,0 +1,24 @@
+[
+  {
+    "id": "Featured Stations here",
+    "emote": "<:bbcradio6:618078707084689429>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 6 Music",
+      "shortname": "Radio 6",
+      "slogan": "The place for the best Alternative Music",
+      "website": "https://www.bbc.co.uk/6music",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BBC_Radio_6_Music.svg/1280px-BBC_Radio_6_Music.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p?s=1567424495&e=1567438895&h=30f368ef8836741fc8dfda032cf6f606",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

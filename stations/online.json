@@ -1,0 +1,178 @@
+[
+  {
+    "id": "discordradio",
+    "emote": "<:discord:644231688439988256>",
+    "active": true,
+    "info": {
+      "name": "Discord Radio",
+      "shortname": "Discord Radio",
+      "slogan": "Playing all the biggest hits...",
+      "website": "http://discordradio.co/",
+      "logo": "https://i.imgur.com/ZOKp8LH.jpg",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://157.245.157.115:8000/radio.mp3?1577039819",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "discordradiochristmas",
+    "emote": "<:discord:644231688439988256>",
+    "active": true,
+    "info": {
+      "name": "Discord Radio",
+      "shortname": "Discord Radio Christmas",
+      "slogan": "Playing all the biggest christmas hits...",
+      "website": "http://discordradio.co/christmas",
+      "logo": "https://i.imgur.com/ZOKp8LH.jpg",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://157.245.157.115:8010/radio.mp3?1577063222",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "truckersfm",
+    "emote": "<:TruckersFM:504667102612029462>",
+    "active": true,
+    "info": {
+      "name": "Truckers FM",
+      "shortname": "TFM",
+      "slogan": "Your Drive, Your Music",
+      "website": "http://truckers.fm/",
+      "logo": "https://pbs.twimg.com/profile_images/1017556566428585985/h5-qZAJI_400x400.jpg",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/truckersfm.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "bigrigfm",
+    "emote": "<:BigRigFM:582275234456010771>",
+    "active": true,
+    "info": {
+      "name": "BigRig FM",
+      "shortname": "BRFM",
+      "slogan": "Your Drive, Your Music",
+      "website": "http://bigrig.fm/",
+      "logo": "https://pbs.twimg.com/profile_images/1132443663454355457/IVB8tvuM_400x400.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://radio.bigrig.fm/",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "sr",
+    "emote": "<:SimulatorRadio:523862950726074368>",
+    "active": true,
+    "info": {
+      "name": "Simulator Radio",
+      "shortname": "Simulator Radio",
+      "slogan": "SimulatorRadio, your number one simulation station",
+      "website": "https://simulatorradio.com/",
+      "logo": "http://i.ewanpatrick.co.uk/i/i/1qrt0.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://simulatorradio.stream/stream",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "gaydio",
+    "emote": "<:Gaydio:504668315227127850>",
+    "active": true,
+    "info": {
+      "name": "Gaydio",
+      "shortname": "Gaydio",
+      "slogan": "The Beat Of Gay UK",
+      "website": "http://gaydio.co.uk/",
+      "logo": "https://lh3.googleusercontent.com/_n_zprEGtM-6WMTHiqJXaD95ur_-GYup1hjHMfyv6EKgql0h79u0QS9K1JYsXdIRcA=s180",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://ads-direct.sharp-stream.com/gaydiouk.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "bounce",
+    "emote": "<:bounce:650733586822987786>",
+    "active": true,
+    "info": {
+      "name": "Bounce",
+      "shortname": "Bounce",
+      "slogan": "We are Bounce",
+      "website": "https://wearebounce.net/",
+      "logo": "https://wearebounce.net/branding/LogoIconColour.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://radio.wearebounce.net/radio/8000/radio.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "calon",
+    "emote": "<:calon:659717249799684112>",
+    "active": true,
+    "info": {
+      "name": "CalonFM",
+      "shortname": "Calon",
+      "slogan": "Uniting our community",
+      "website": "http://calonfm.com/",
+      "logo": "https://media.info/i/lf/0/1434478559/948.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://149.255.59.164:8035/;&type=mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

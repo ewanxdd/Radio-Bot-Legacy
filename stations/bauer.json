@@ -1,0 +1,266 @@
+[
+  {
+    "id": "hitsradio",
+    "emote": "<:HitsRadio:504666026269474817>",
+    "active": true,
+    "info": {
+      "name": "Hits Radio",
+      "shortname": "Hits Radio",
+      "slogan": "The Biggest Hits, The Biggest Throwbacks",
+      "website": "https://planetradio.co.uk/hits-radio/",
+      "logo": "https://d24j9r7lck9cin.cloudfront.net/l/o/2/262.1527873856.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/hits.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_hits_current()",
+      "dj": "rs_hits_dj()"
+    }
+  },
+  {
+    "id": "greatesthitsradio",
+    "emote": "<:GreatestHitsRadio:592678941676797973>",
+    "active": true,
+    "info": {
+      "name": "Greatest Hits Radio",
+      "shortname": "Greatest Hits Radio",
+      "slogan": "The Good Times Sound Like This",
+      "website": "https://planetradio.co.uk/greatest-hits/",
+      "logo": "http://www.radioplayeruk.com/img/logs/greatesthitsradio.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=net2national.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "countryhitsradio",
+    "emote": "<:countryhitsradio:661192676225318943>",
+    "active": true,
+    "info": {
+      "name": "Country Hits Radio",
+      "shortname": "Country Hits Radio",
+      "slogan": "The best of Country Hits",
+      "website": "https://planetradio.co.uk/country-hits/",
+      "logo": "http://cdn-profiles.tunein.com/s307798/images/logog.png?t=155350",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=countryhits.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "kiss",
+    "emote": "<:KissRadio:504663973719703552>",
+    "active": true,
+    "info": {
+      "name": "Kiss FM UK",
+      "shortname": "KISS",
+      "slogan": "The Beat of the UK",
+      "website": "https://planetradio.co.uk/kiss/",
+      "logo": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/26.jpg",
+      "color": "#5D2466"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=d6052dd6012dc6633eee32f39b0cd9f8&amsparams=playerid%3ABMUK_html5%3Bskey%3A1569231434%3B&awparams=loggedin%3Afalse%3B&aw_0_req.gdpr=true&aw_0_req.userConsent=BOnVbaLOnVbaLALACAENCk-AAAAqV7_______9______5uz_Ov_v_f__33e8__9v_l_7_-___u_-3zd4u_1vf99yfm1-7etr3tp_87ues2_Xur__59__3z3_9phPrsks9qiAAAAAAAAAAAA",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_kiss_current()",
+      "dj": "rs_kiss_dj()"
+    }
+  },
+  {
+    "id": "kisstory",
+    "emote": "<:Kisstory:592679541085044749>",
+    "active": true,
+    "info": {
+      "name": "Kisstory",
+      "shortname": "Kisstory",
+      "slogan": "Non-Stop Old Skool and Anthems",
+      "website": "https://planetradio.co.uk/kisstory/",
+      "logo": "https://getdigitalradio.com/wp-content/uploads/2017/09/kissstory.png",
+      "color": "#5D2466"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=kisstory.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "magic",
+    "emote": "<:Magic:506520880222830592>",
+    "active": true,
+    "info": {
+      "name": "Magic Radio",
+      "shortname": "Magic",
+      "slogan": "More of the Songs You Love",
+      "website": "https://planetradio.co.uk/magic/",
+      "logo": "http://www.ukdigitalradio.com/images/Magic-Radio-Primary-RGB-Pos1.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/magic.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "jazzfm",
+    "emote": "<:JazzFM:525657409780318208>",
+    "active": true,
+    "info": {
+      "name": "Jazz FM",
+      "shortname": "JazzFM",
+      "slogan": "Listen in Colour",
+      "website": "https://www.jazzfm.com/",
+      "logo": "https://d24j9r7lck9cin.cloudfront.net/l/o/6/687.1407600157.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://edge-ads-02-gos1.sharp-stream.com/jazzfmmobile.mp3?ref=rf",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "talkradio",
+    "emote": "<:talkRADIO:592306338072363008>",
+    "active": true,
+    "info": {
+      "name": "talkRADIO",
+      "shortname": "talkRADIO",
+      "slogan": "We'll get you talking!",
+      "website": "https://talkradio.co.uk/",
+      "logo": "http://talkradio.co.uk/sites/all/themes/talkGroup/img/talkRADIO_stacked.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://radio.talkradio.co.uk/stream",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "talksport",
+    "emote": "<:talkSPORT:592307420630614016>",
+    "active": true,
+    "info": {
+      "name": "talkSPORT",
+      "shortname": "talkSPORT",
+      "slogan": "Tune in to the world's biggest sports radio station - Live Premier League football coverage, breaking sports news, transfer rumours & exclusive interviews.",
+      "website": "https://talksport.com/",
+      "logo": "http://2017.britishcarpchamps.co.uk/wp-content/uploads/2013/09/talksport-App-Icon_football.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://radio.talksport.com/stream",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "clyde1",
+    "emote": "<:Clyde1:506518627793764372>",
+    "active": true,
+    "info": {
+      "name": "Clyde 1",
+      "shortname": "Radio Clyde",
+      "slogan": "The biggest hits, the biggest throwbacks...",
+      "website": "https://planetradio.co.uk/clyde/",
+      "logo": "http://www.rwcu.co.uk/login/uploads/Clyde~1.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/clyde1.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "clyde2",
+    "emote": "<:Clyde2:531621107535446021>",
+    "active": true,
+    "info": {
+      "name": "Clyde 2",
+      "shortname": "Clyde2",
+      "slogan": "The Greatest Hits for Glasgow and The West",
+      "website": "https://planetradio.co.uk/clyde-2/",
+      "logo": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/13.png?ver=1463741191",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/clyde2.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "klfm",
+    "emote": "<:klfm:505533941768519690>",
+    "active": true,
+    "info": {
+      "name": "KL FM",
+      "shortname": "KLFM",
+      "slogan": "Love west Norfolk love klfm",
+      "website": "https://www.klfm967.co.uk/",
+      "logo": "https://cml.sad.ukrd.com/image/489319.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://str1.sad.ukrd.com/klfm.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "nrj",
+    "emote": "<:nrj:618910418659835905>",
+    "active": true,
+    "info": {
+      "name": "NRJ",
+      "shortname": "NRJ",
+      "slogan": "Hit Music Only!",
+      "website": "https://www.nrj.fr/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/Logo_NRJ_2016.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://185.52.127.173/fr/30001/aac_64.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

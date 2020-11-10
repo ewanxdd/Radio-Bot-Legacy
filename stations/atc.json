@@ -1,0 +1,24 @@
+[
+  {
+    "id": "jfk",
+    "emote": "\ud83d\uddfd",
+    "active": true,
+    "info": {
+      "name": "New York JFK Tower",
+      "shortname": "KJFK_TWR",
+      "slogan": "Live ATC",
+      "website": "https://www.jfkairport.com/",
+      "logo": "https://www.tfaforms.com/forms/get_image/202005/mLJh15ZuTVPK3uP07WTeUsjetU4liwNlPMvU5eF4cDizI5k6CM3oKHeuEcoJhd1i-a-new-jfk-logo.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://d.liveatc.net/kjfk_twr",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "id": "hitsradio",
+    "emote": "<:HitsRadio:504666026269474817>",
+    "active": true,
+    "info": {
+      "name": "Hits Radio",
+      "shortname": "Hits Radio",
+      "slogan": "The Biggest Hits, The Biggest Throwbacks",
+      "website": "https://planetradio.co.uk/hits-radio/",
+      "logo": "https://d24j9r7lck9cin.cloudfront.net/l/o/2/262.1527873856.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/hits.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_hits_current()",
+      "dj": "rs_hits_dj()"
+    }
+  },
+  {
+    "id": "greatesthitsradio",
+    "emote": "<:GreatestHitsRadio:592678941676797973>",
+    "active": true,
+    "info": {
+      "name": "Greatest Hits Radio",
+      "shortname": "Greatest Hits Radio",
+      "slogan": "The Good Times Sound Like This",
+      "website": "https://planetradio.co.uk/greatest-hits/",
+      "logo": "http://www.radioplayeruk.com/img/logs/greatesthitsradio.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=net2national.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "magic",
+    "emote": "<:Magic:506520880222830592>",
+    "active": true,
+    "info": {
+      "name": "Magic Radio",
+      "shortname": "Magic",
+      "slogan": "More of the Songs You Love",
+      "website": "https://planetradio.co.uk/magic/",
+      "logo": "http://www.ukdigitalradio.com/images/Magic-Radio-Primary-RGB-Pos1.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/magic.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "jazzfm",
+    "emote": "<:JazzFM:525657409780318208>",
+    "active": true,
+    "info": {
+      "name": "Jazz FM",
+      "shortname": "JazzFM",
+      "slogan": "Listen in Colour",
+      "website": "https://www.jazzfm.com/",
+      "logo": "https://d24j9r7lck9cin.cloudfront.net/l/o/6/687.1407600157.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://edge-ads-02-gos1.sharp-stream.com/jazzfmmobile.mp3?ref=rf",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "talkradio",
+    "emote": "<:talkRADIO:592306338072363008>",
+    "active": true,
+    "info": {
+      "name": "talkRADIO",
+      "shortname": "talkRADIO",
+      "slogan": "We'll get you talking!",
+      "website": "https://talkradio.co.uk/",
+      "logo": "http://talkradio.co.uk/sites/all/themes/talkGroup/img/talkRADIO_stacked.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://radio.talkradio.co.uk/stream",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "talksport",
+    "emote": "<:talkSPORT:592307420630614016>",
+    "active": true,
+    "info": {
+      "name": "talkSPORT",
+      "shortname": "talkSPORT",
+      "slogan": "Tune in to the world's biggest sports radio station - Live Premier League football coverage, breaking sports news, transfer rumours & exclusive interviews.",
+      "website": "https://talksport.com/",
+      "logo": "http://2017.britishcarpchamps.co.uk/wp-content/uploads/2013/09/talksport-App-Icon_football.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://radio.talksport.com/stream",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "clyde1",
+    "emote": "<:Clyde1:506518627793764372>",
+    "active": true,
+    "info": {
+      "name": "Clyde 1",
+      "shortname": "Radio Clyde",
+      "slogan": "All the biggest hits, all day long",
+      "website": "https://planetradio.co.uk/clyde/",
+      "logo": "http://www.rwcu.co.uk/login/uploads/Clyde~1.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/clyde1.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "clyde2",
+    "emote": "<:Clyde2:531621107535446021>",
+    "active": true,
+    "info": {
+      "name": "Clyde 2",
+      "shortname": "Clyde2",
+      "slogan": "The Greatest Hits for Glasgow and The West",
+      "website": "https://planetradio.co.uk/clyde-2/",
+      "logo": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/13.png?ver=1463741191",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/clyde2.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "klfm",
+    "emote": "<:klfm:505533941768519690>",
+    "active": true,
+    "info": {
+      "name": "KL FM",
+      "shortname": "KLFM",
+      "slogan": "Love west Norfolk love klfm",
+      "website": "https://www.klfm967.co.uk/",
+      "logo": "https://cml.sad.ukrd.com/image/489319.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://str1.sad.ukrd.com/klfm.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio1",
+    "emote": "<:bbcradio1:618071831227924493>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 1",
+      "shortname": "Radio 1",
+      "slogan": "Where It Begins",
+      "website": "https://www.bbc.co.uk/radio1",
+      "logo": "https://pre00.deviantart.net/72e7/th/pre/f/2014/137/1/6/radio_1_icon_by_snowsnooks-d7io141.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/radio1.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_radio1_playlist()[0]",
+      "dj": "rs_radio1_dj()"
+    }
+  },
+  {
+    "id": "radio1xtra",
+    "emote": "<:bbc1xtra:618071701883715614>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 1Xtra",
+      "shortname": "Radio 1Xtra",
+      "slogan": "Home of Dotty, DJ Target, Ace, MistaJam and Yasmin Evans. Xtra RnB, Xtra Hip Hop.",
+      "website": "https://www.bbc.co.uk/1xtra",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BBC_Radio_1Xtra_launch_logo.svg/1280px-BBC_Radio_1Xtra_launch_logo.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p?s=1567365098&e=1567379498&h=f11d8a40c01f215e9a8ee10de1f26478",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio2",
+    "emote": "<:bbcradio2:618071916929875969>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 2",
+      "shortname": "Radio 2",
+      "slogan": "The home of great music. On the BBC Sounds App, on Digital Radio, and on 88 to 91 FM",
+      "website": "https://www.bbc.co.uk/radio2",
+      "logo": "https://d24j9r7lck9cin.cloudfront.net/l/o/4/410.1487922932.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p?s=1567403745&e=1567418145&h=bd835790b9024474d1343665df5ead65",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio3",
+    "emote": "<:bbcradio3:618071769882034177>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 3",
+      "shortname": "Radio 3",
+      "slogan": "Radio 3 broadcasts classical music, jazz, world music, new music, arts programmes and drama. It's the home of the Proms and broadcasts more live music than any other network",
+      "website": "https://www.bbc.co.uk/radio3",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/BBC_Radio_3.svg/1280px-BBC_Radio_3.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p?s=1567422767&e=1567437167&h=14fb84fc7be609624e9fbd7a086ff68f",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio4",
+    "emote": "<:bbcradio4:618071793483251733>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 4",
+      "shortname": "Radio 4",
+      "slogan": "Intelligent speech, the most insightful journalism, the wittiest comedy, the most fascinating features and the most compelling drama and readings anywhere in UK radio",
+      "website": "https://www.bbc.co.uk/radio4",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/BBC_Radio_4.svg/1280px-BBC_Radio_4.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p?s=1567423276&e=1567437676&h=438fadb83a71d90875b6c9226ccb4cca",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio4extra",
+    "emote": "<:bbc4xtra:618074641612931082>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 4 Extra",
+      "shortname": "Radio 4 Extra",
+      "slogan": "Showcasing the best in comedy drama and entertainment. With quizzes, sitcoms, panel games, satire, stand up, life stories, classics from the archive, science fiction and fantasy",
+      "website": "https://www.bbc.co.uk/radio4extra",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/BBC_Radio_4_Extra.svg/1280px-BBC_Radio_4_Extra.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p?s=1567425037&e=1567439437&h=218d23f72dd87c1f9e78280684390fd6",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio5live",
+    "emote": "<:radio5live:618075540792016916>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 5 live",
+      "shortname": "Radio 5 live",
+      "slogan": "On digital and online, smartphone, and tablet, this is BBC 5 Live",
+      "website": "https://www.bbc.co.uk/5live",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_Radio_5_Live.svg/1280px-BBC_Radio_5_Live.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://sc56.lon.llnw.net:80/stream/bbcmedia_radio5live_mf_p",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio5livesportsextra",
+    "emote": "<:radio5liveextra:618077466136805377>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 5 live sports extra",
+      "shortname": "Radio 5 live sports extra",
+      "slogan": "More live sport. Pure live sport. Live cricket from the Test Match Special team, football commentary, Formula 1, rugby union, rugby league, baseball, NFL American Football, tennis...",
+      "website": "https://www.bbc.co.uk/5livesportsextra",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Radio_5_Live_Sports_Extra.svg/1200px-BBC_Radio_5_Live_Sports_Extra.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live_sports_extra",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radio6",
+    "emote": "<:bbcradio6:618078707084689429>",
+    "active": true,
+    "info": {
+      "name": "BBC Radio 6 Music",
+      "shortname": "Radio 6",
+      "slogan": "The place for the best Alternative Music",
+      "website": "https://www.bbc.co.uk/6music",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/BBC_Radio_6_Music.svg/1280px-BBC_Radio_6_Music.svg.png",
+      "color": "#000000"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p?s=1567424495&e=1567438895&h=30f368ef8836741fc8dfda032cf6f606",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "nrj",
+    "emote": "<:nrj:618910418659835905>",
+    "active": true,
+    "info": {
+      "name": "NRJ",
+      "shortname": "NRJ",
+      "slogan": "Hit Music Only!",
+      "website": "https://www.nrj.fr/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/54/Logo_NRJ_2016.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://185.52.127.173/fr/30001/aac_64.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "capital",
+    "emote": "<:CapitalFM:506515630141472769>",
+    "active": true,
+    "info": {
+      "name": "Capital FM",
+      "shortname": "Capital",
+      "slogan": "The UK's Number 1 Hit Music Station",
+      "website": "https://www.capitalfm.com/digital/",
+      "logo": "http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2017/02/capital-network-logo--led-wall-1484217409-custom-0.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/CapitalUKMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "capitalxtra",
+    "emote": "<:CapitalXTRA:592304981831319562>",
+    "active": true,
+    "info": {
+      "name": "Capital XTRA",
+      "shortname": "Capital XTRA",
+      "slogan": "Bringing you the best of Hip Hop, Grime, RnB.",
+      "website": "https://www.capitalxtra.com/",
+      "logo": "https://assets.capitalxtra.com/2018/10/capital-xtra-default-artwork-1520939543-list-handheld-0.jpg",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/CapitalXTRANationalMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "heart",
+    "emote": "<:Heart:505536128594739201>",
+    "active": true,
+    "info": {
+      "name": "Heart",
+      "shortname": "Heart",
+      "slogan": "Turn up the feel good",
+      "website": "https://www.heart.co.uk/",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1280px-The_Heart_Network_logo.svg.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/HeartUKMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "heartdance",
+    "emote": "<:HeartDance:592682809068617729>",
+    "active": true,
+    "info": {
+      "name": "Heart Dance",
+      "shortname": "Heart Dance",
+      "slogan": "Non-stop Club Classics",
+      "website": "https://www.heart.co.uk/dance/",
+      "logo": "https://radio2you.co.uk/public/uploads/radio_img/heart-dance/fb_cover.jpg",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/HeartDanceMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "radiox",
+    "emote": "<:RadioX:504665222624313376>",
+    "active": true,
+    "info": {
+      "name": "Radio X",
+      "shortname": "RadioX",
+      "slogan": "Get Into the Music",
+      "website": "https://www.radiox.co.uk/",
+      "logo": "https://assets.radiox.co.uk/2016/07/radio-x-square-logo-700x700-1455805104-article-lead-0.jpg",
+      "color": "#37a247"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-ice.musicradio.com:80/RadioXLondonMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_radiox_current()",
+      "dj": "rs_radiox_dj()"
+    }
+  },
+  {
+    "id": "smoothradio",
+    "emote": "<:SmoothRadio:505533759710560256>",
+    "active": true,
+    "info": {
+      "name": "Smooth FM",
+      "shortname": "Smooth",
+      "slogan": "Your Relaxing Music Mix",
+      "website": "https://www.smoothradio.com/",
+      "logo": "https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjllPGK_aTdAhVIEVAKHTOIAmAQjRx6BAgBEAU&url=https%3A%2F%2Fwww.smoothradio.com%2F&psig=AOvVaw2JpCPSCitNOYo83_sVbHdc&ust=1536275145660289",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://media-sov.musicradio.com:80/SmoothUKMP3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "slam",
+    "emote": "<:slam:618522576938991649>",
+    "active": true,
+    "info": {
+      "name": "SLAM!",
+      "shortname": "SLAM!",
+      "slogan": "Play Music, Play Life",
+      "website": "https://www.slam.nl",
+      "logo": "http://www.sb-events.nl/wp-content/uploads/2014/02/Logo-Slam.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://21253.live.streamtheworld.com/SLAM_AAC.aac?ttag=PLAYER%3ANOPREROLL&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=e41863e8-73b2-4bdf-bf95-bcb1f2ef99f1",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "skyradio",
+    "emote": "<:skyradio:618526016759005195>",
+    "active": true,
+    "info": {
+      "name": "Sky Radio",
+      "shortname": "Sky Radio",
+      "slogan": "The Feelgood Station",
+      "website": "https://www.sysradio.nl",
+      "logo": "https://www.villamedia.nl/images/uploads/skyradiologo.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://21283.live.streamtheworld.com/SKYRADIO.mp3?dist=sky-radio_web",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "qmusic",
+    "emote": "<:qmusic:618738460882239508>",
+    "active": true,
+    "info": {
+      "name": "Qmusic",
+      "shortname": "Qmusic",
+      "slogan": "You Make Us Q",
+      "website": "https://qmusic.nl/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1200px-Qmusic_logo.svg.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac?rnd=4851428727770957",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "100%nl",
+    "emote": "<:100nl:618739223343792138>",
+    "active": true,
+    "info": {
+      "name": "100% NL",
+      "shortname": "100% NL",
+      "slogan": "De Musiek Van Nederland",
+      "website": "https://www.100p.nl/",
+      "logo": "https://i.imgur.com/NxgvyyU.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://20103.live.streamtheworld.com/100PNL_AAC.aac?ttag=PLAYER%3ANOPREROLL&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=a0aec254-9a38-4ec0-fa79-14d320e1bd1e",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "truckersfm",
+    "emote": "<:TruckersFM:504667102612029462>",
+    "active": true,
+    "info": {
+      "name": "Truckers FM",
+      "shortname": "TFM",
+      "slogan": "Your Drive, Your Music",
+      "website": "http://truckers.fm/",
+      "logo": "https://pbs.twimg.com/profile_images/1017556566428585985/h5-qZAJI_400x400.jpg",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "file",
+      "streampath": "pls/truckersfm.pls",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "bigrigfm",
+    "emote": "<:BigRigFM:582275234456010771>",
+    "active": true,
+    "info": {
+      "name": "BigRig FM",
+      "shortname": "BRFM",
+      "slogan": "Your Drive, Your Music",
+      "website": "http://bigrig.fm/",
+      "logo": "https://pbs.twimg.com/profile_images/1132443663454355457/IVB8tvuM_400x400.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://radio.bigrig.fm/",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "sr",
+    "emote": "<:SimulatorRadio:523862950726074368>",
+    "active": true,
+    "info": {
+      "name": "Simulator Radio",
+      "shortname": "Simulator Radio",
+      "slogan": "SimulatorRadio, your number one simulation station",
+      "website": "https://simulatorradio.com/",
+      "logo": "http://i.ewanpatrick.co.uk/i/i/1qrt0.png",
+      "color": "#bb00ff"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://simulatorradio.stream/stream",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "kiss",
+    "emote": "<:KissRadio:504663973719703552>",
+    "active": true,
+    "info": {
+      "name": "Kiss FM UK",
+      "shortname": "KISS",
+      "slogan": "The Beat of the UK",
+      "website": "https://planetradio.co.uk/kiss/",
+      "logo": "https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/26.jpg",
+      "color": "#5D2466"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://stream-kiss.planetradio.co.uk/kissnational.aac?direct=true&listenerid=d6052dd6012dc6633eee32f39b0cd9f8&amsparams=playerid%3ABMUK_html5%3Bskey%3A1569231434%3B&awparams=loggedin%3Afalse%3B&aw_0_req.gdpr=true&aw_0_req.userConsent=BOnVbaLOnVbaLALACAENCk-AAAAqV7_______9______5uz_Ov_v_f__33e8__9v_l_7_-___u_-3zd4u_1vf99yfm1-7etr3tp_87ues2_Xur__59__3z3_9phPrsks9qiAAAAAAAAAAAA",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "rs_kiss_current()",
+      "dj": "rs_kiss_dj()"
+    }
+  },
+  {
+    "id": "kisstory",
+    "emote": "<:Kisstory:592679541085044749>",
+    "active": true,
+    "info": {
+      "name": "Kisstory",
+      "shortname": "Kisstory",
+      "slogan": "Non-Stop Old Skool and Anthems",
+      "website": "https://planetradio.co.uk/kisstory/",
+      "logo": "https://getdigitalradio.com/wp-content/uploads/2017/09/kissstory.png",
+      "color": "#5D2466"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=kisstory.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "gaydio",
+    "emote": "<:Gaydio:504668315227127850>",
+    "active": true,
+    "info": {
+      "name": "Gaydio",
+      "shortname": "Gaydio",
+      "slogan": "The Beat Of Gay UK",
+      "website": "http://gaydio.co.uk/",
+      "logo": "https://lh3.googleusercontent.com/_n_zprEGtM-6WMTHiqJXaD95ur_-GYup1hjHMfyv6EKgql0h79u0QS9K1JYsXdIRcA=s180",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://ads-direct.sharp-stream.com/gaydiouk.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "jfk",
+    "emote": "\ud83d\uddfd",
+    "active": true,
+    "info": {
+      "name": "KJFK Tower",
+      "shortname": "KJFK_TWR",
+      "slogan": "Live ATC",
+      "website": "https://www.jfkairport.com/",
+      "logo": "https://www.tfaforms.com/forms/get_image/202005/mLJh15ZuTVPK3uP07WTeUsjetU4liwNlPMvU5eF4cDizI5k6CM3oKHeuEcoJhd1i-a-new-jfk-logo.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://d.liveatc.net/kjfk_twr",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "discordradio",
+    "emote": "<:discord:644231688439988256>",
+    "active": true,
+    "info": {
+      "name": "Discord Radio",
+      "shortname": "Discord Radio",
+      "slogan": "Playing all the biggest hits...",
+      "website": "http://discordradio.co/",
+      "logo": "https://i.imgur.com/ZOKp8LH.jpg",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://157.245.157.115:8000/radio.mp3?1577039819",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "bounce",
+    "emote": "<:bounce:650733586822987786>",
+    "active": true,
+    "info": {
+      "name": "Bounce",
+      "shortname": "Bounce",
+      "slogan": "We are Bounce",
+      "website": "https://wearebounce.net/",
+      "logo": "https://wearebounce.net/branding/LogoIconColour.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://radio.wearebounce.net/radio/8000/radio.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "discordradiochristmas",
+    "emote": "<:discord:644231688439988256>",
+    "active": true,
+    "info": {
+      "name": "Discord Radio",
+      "shortname": "Discord Radio Christmas",
+      "slogan": "Playing all the biggest christmas hits...",
+      "website": "http://discordradio.co/christmas",
+      "logo": "https://i.imgur.com/ZOKp8LH.jpg",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://157.245.157.115:8010/radio.mp3?1577063222",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "countryhitsradio",
+    "emote": "<:countryhitsradio:661192676225318943>",
+    "active": true,
+    "info": {
+      "name": "Country Hits Radio",
+      "shortname": "Country Hits Radio",
+      "slogan": "The best of Country Hits",
+      "website": "https://planetradio.co.uk/country-hits/",
+      "logo": "http://cdn-profiles.tunein.com/s307798/images/logog.png?t=155350",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=countryhits.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "calon",
+    "emote": "<:calon:659717249799684112>",
+    "active": true,
+    "info": {
+      "name": "CalonFM",
+      "shortname": "Calon",
+      "slogan": "Uniting our community",
+      "website": "http://calonfm.com/",
+      "logo": "https://media.info/i/lf/0/1434478559/948.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://149.255.59.164:8035/;&type=mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "countryhitsradio",
+    "emote": "<:countryhitsradio:661192676225318943>",
+    "active": true,
+    "info": {
+      "name": "Country Hits Radio",
+      "shortname": "Country Hits Radio",
+      "slogan": "The best of Country Hits",
+      "website": "https://planetradio.co.uk/country-hits/",
+      "logo": "http://cdn-profiles.tunein.com/s307798/images/logog.png?t=155350",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "http://tx.planetradio.co.uk/icecast.php?i=countryhits.mp3",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]

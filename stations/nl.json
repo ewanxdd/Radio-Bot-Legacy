@@ -1,0 +1,90 @@
+[
+  {
+    "id": "slam",
+    "emote": "<:slam:618522576938991649>",
+    "active": true,
+    "info": {
+      "name": "SLAM!",
+      "shortname": "SLAM!",
+      "slogan": "Play Music, Play Life",
+      "website": "https://www.slam.nl",
+      "logo": "http://www.sb-events.nl/wp-content/uploads/2014/02/Logo-Slam.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://21253.live.streamtheworld.com/SLAM_AAC.aac?ttag=PLAYER%3ANOPREROLL&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=e41863e8-73b2-4bdf-bf95-bcb1f2ef99f1",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "skyradio",
+    "emote": "<:skyradio:618526016759005195>",
+    "active": true,
+    "info": {
+      "name": "Sky Radio",
+      "shortname": "Sky Radio",
+      "slogan": "The Feelgood Station",
+      "website": "https://www.sysradio.nl",
+      "logo": "https://www.villamedia.nl/images/uploads/skyradiologo.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://21283.live.streamtheworld.com/SKYRADIO.mp3?dist=sky-radio_web",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "qmusic",
+    "emote": "<:qmusic:618738460882239508>",
+    "active": true,
+    "info": {
+      "name": "Qmusic",
+      "shortname": "Qmusic",
+      "slogan": "You Make Us Q",
+      "website": "https://qmusic.nl/",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/1200px-Qmusic_logo.svg.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_32.aac?rnd=4851428727770957",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  },
+  {
+    "id": "100%nl",
+    "emote": "<:100nl:618739223343792138>",
+    "active": true,
+    "info": {
+      "name": "100% NL",
+      "shortname": "100% NL",
+      "slogan": "De Musiek Van Nederland",
+      "website": "https://www.100p.nl/",
+      "logo": "https://i.imgur.com/NxgvyyU.png",
+      "color": "#00c9e0"
+    },
+    "stream": {
+      "streamtype": "url",
+      "streampath": "https://20103.live.streamtheworld.com/100PNL_AAC.aac?ttag=PLAYER%3ANOPREROLL&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=a0aec254-9a38-4ec0-fa79-14d320e1bd1e",
+      "streamid": 0
+    },
+    "resolver": {
+      "song": "None",
+      "dj": "None"
+    }
+  }
+]
