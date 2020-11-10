@@ -21,4 +21,12 @@ At first I was reluctant to offer support with the code but im going to be nice.
 
 
 
-All code in this repo is old discord.py and will not work with the new version of discord.py.
+All code in this repo is old discord.py and will not work with the new version of discord.py. I personally don't even know what version discord.py even is at this moment in time let alone what has changed. You will need to adapt any of the code you wish to use to the new version of discord.py, you may find one or two pieces may not need changing.
+
+
+
+## Copyright & Fair Use  
+
+
+
+I've released this code on the grounds that you are able to learn and understand how audio streams can be brought into Discord bots. By all means feel free to use the code and alter it although don't attempt to create a clone of Radio Bot. I'm not saying don't add radio into your bot, I'm just saying make sure you remove anything named Radio Bot and don't start a cloned "Radio Bot". 
